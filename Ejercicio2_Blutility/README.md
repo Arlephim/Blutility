@@ -1,0 +1,1 @@
+Esta hecho el ejercicio 2 de la tarea en blueprints, exceptuando una función que tuve que hacer en c++ para poder obtener el WorldContextObject.
